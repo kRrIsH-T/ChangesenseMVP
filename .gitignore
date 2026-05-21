@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Build artifacts
+frontend/dist/
+frontend/__MACOSX/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archives / stray files at root
+*.zip
+ndav3.txt
+
+# Logs
+*.log

@@ -1,0 +1,85 @@
+COMMERCIAL LEASE AGREEMENT (VERSION 3 - RISK-SHIFTED REDLINE)
+
+This Commercial Lease Agreement ("Lease") is entered into as of May 1, 2026 ("Effective Date"), by and between Harbor Point Properties, LLC ("Landlord") and Blue Fern Studio, Inc. ("Tenant").
+
+1. Premises and Expansion Space
+Landlord leases to Tenant (a) approximately 4,000 rentable square feet at Suite 210 and (b) an option on adjacent expansion space of up to 1,200 rentable square feet at Suite 212, exercisable during months 18-30 of the Term.
+
+2. Lease Term
+The lease term begins on June 1, 2026 and ends on May 31, 2032.
+
+3. Base Rent and Escalations
+Tenant shall pay base rent as follows:
+Months 1-12: $11,200 per month
+Months 13-24: $11,648 per month
+Months 25-36: $12,114 per month
+Months 37-48: $12,598 per month
+Months 49-60: $13,102 per month
+Months 61-72: $13,626 per month
+Annual escalations are fixed at 4.0%.
+
+4. Security Deposit; Letter of Credit
+Tenant shall provide either (i) a cash security deposit of $33,000 or (ii) an irrevocable standby letter of credit in the same amount, in form acceptable to Landlord.
+
+5. Permitted Use and Exclusivity
+Tenant shall use the Premises for office, design, software development, limited training sessions, and ancillary storage.
+Landlord grants Tenant an exclusivity right prohibiting lease of other space in the building to a direct competitor primarily engaged in digital contract analytics.
+
+6. Operating Expenses; Audit Rights
+Tenant shall pay 8.2% of Operating Expenses. Annual increases in controllable Operating Expenses are capped at 5% on a non-cumulative basis.
+Tenant may audit Landlord's Operating Expense statements once per calendar year upon 20 business days' notice.
+
+7. Utilities and Sustainability
+Tenant shall pay separately metered electricity and data services.
+Landlord shall maintain HVAC to support normal office occupancy from 7:00 a.m. to 8:00 p.m. local time on business days.
+Both parties shall cooperate to implement commercially reasonable energy-efficiency measures.
+
+8. Repairs and Service Levels
+Landlord shall maintain structural elements, roof, building systems, and common areas in good order.
+If a material building system outage continues for more than 3 consecutive business days after notice, Tenant shall receive rent credit equal to 1/30 of monthly base rent per affected day.
+
+9. Alterations and Data Room
+Tenant may perform non-structural alterations costing less than $35,000 per project with prior notice (but no consent), provided work complies with law and building rules.
+Landlord and Tenant shall maintain a shared digital data room for approved plans, permits, and closeout documentation.
+
+10. Insurance
+Tenant shall maintain commercial general liability insurance with limits of $2,000,000 per occurrence and $5,000,000 aggregate, cyber liability insurance of $2,000,000, and property insurance for Tenant's property.
+Landlord shall maintain property insurance for the building and commercial general liability insurance for common areas.
+
+11. Waiver of Subrogation
+Each party waives, and shall cause its insurers to waive, subrogation rights against the other party to the extent of insured losses.
+
+12. Liability Cap
+Neither party shall be liable for indirect, special, consequential, or punitive damages under this Lease, except for fraud, willful misconduct, or amounts due under express indemnity obligations.
+
+13. Assignment, Change of Control, and Subletting
+Tenant shall not assign or sublet without Landlord consent; provided, consent shall not be unreasonably withheld.
+A transfer resulting from merger, acquisition, or sale of substantially all Tenant assets to an entity with equal or greater net worth shall not require consent, but requires notice within 15 days.
+
+14. Default and Cure
+Monetary default: 7 days after notice.
+Non-monetary default: 25 days after notice, extended so long as cure is diligently pursued.
+Landlord may not terminate this Lease for non-monetary default unless Landlord first provides a second written notice at least 5 business days before termination.
+
+15. Force Majeure
+Neither party is liable for delay due to causes beyond reasonable control, excluding payment obligations.
+
+16. Renewal Option
+Tenant may renew for two additional terms of three (3) years each by providing notice at least 12 months before expiration of the then-current term.
+Renewal rent shall be fair market rent, but not less than the final year of the immediately preceding term.
+
+17. Option to Purchase
+Tenant has a one-time right of first offer to purchase the Premises condominium unit if Landlord elects to sell during the Term.
+
+18. Confidentiality
+The parties shall keep lease economics and non-public operational information confidential, except as required by law, financing, audit, or professional advisor obligations.
+
+19. Governing Law
+This Lease is governed by the laws of the Commonwealth of Massachusetts.
+
+20. Entire Agreement; Amendment
+This Lease constitutes the entire agreement and may be amended only by a signed writing.
+
+Executed by:
+Landlord: Harbor Point Properties, LLC
+Tenant: Blue Fern Studio, Inc.
