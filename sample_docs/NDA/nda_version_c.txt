@@ -1,0 +1,61 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of the date of the last signature below ("Effective Date") by and between the parties identified below.
+
+1. DEFINITIONS
+
+1.1 "Confidential Information" means all non-public information, whether in written, oral, electronic, visual, or other form, disclosed by one party ("Disclosing Party") to the other party ("Receiving Party"), including but not limited to:
+    (a) Technical data, algorithms, source code, software, specifications, architecture documentation, API specifications, database schemas, and related technical materials;
+    (b) Business plans, financial information, customer lists, supplier information, and market analyses;
+    (c) Trade secrets, inventions, product designs, prototypes, engineering documents, and manufacturing processes;
+    (d) Pricing information, business models, revenue projections, and strategic initiatives;
+    (e) Marketing plans, sales strategies, and competitive analyses.
+
+1.2 "Confidential Information" excludes information that: (i) is or becomes publicly available through no breach of this Agreement; (ii) was rightfully possessed by Receiving Party prior to disclosure, as evidenced by contemporaneous written records; (iii) is independently developed by Receiving Party without use of or reference to the Confidential Information, as evidenced by written records; or (iv) is rightfully received by Receiving Party from a third party without confidentiality restrictions and without breach of any obligation.
+
+1.3 "Purpose" means the potential evaluation, negotiation, and performance of a strategic partnership, technology collaboration, investment opportunity, or business transaction between the parties.
+
+2. PURPOSE
+
+The parties wish to explore a potential strategic partnership and, in connection with this exploration, may disclose Confidential Information to each other. This Agreement governs the treatment of such Confidential Information.
+
+3. CONFIDENTIALITY OBLIGATIONS
+
+3.1 The Receiving Party shall:
+    (a) Protect Confidential Information using the same degree of care it uses to protect its own confidential information of similar nature, but in no event less than reasonable care;
+    (b) Limit access to Confidential Information to employees, contractors, advisors, and service providers who have a legitimate need to know and who are bound by written obligations of confidentiality substantially similar to those contained in this Agreement;
+    (c) Not use Confidential Information except as necessary for the Purpose;
+    (d) Not disclose Confidential Information to third parties without prior written consent from the Disclosing Party, except as required by law or court order;
+    (e) Implement reasonable physical, electronic, and procedural safeguards to protect Confidential Information from unauthorized access.
+
+3.2 If a Receiving Party is required by law, regulation, court order, governmental request, or valid legal process to disclose Confidential Information, it shall:
+    (a) Promptly notify the Disclosing Party in writing (to the extent legally permitted and practicable);
+    (b) Cooperate with the Disclosing Party in seeking protective measures, including requesting confidential or sealed treatment;
+    (c) Disclose only the minimum Confidential Information legally required;
+    (d) Use reasonable efforts to obtain a protective order.
+
+4. EXCLUSIONS AND EXCEPTIONS
+
+Notwithstanding Section 1.2, if Confidential Information does not qualify for protection under the exclusions set forth therein, it shall remain Confidential Information regardless of its nature or the manner in which it was developed or obtained. The burden of establishing applicability of any exclusion shall rest with Receiving Party.
+
+5. TERM AND DURATION
+
+5.1 This Agreement shall commence on the Effective Date and continue for a period of four (4) years, unless earlier terminated by either party upon forty-five (45) days' written notice to the other party.
+
+5.2 Confidential Information disclosed during the term shall remain protected for four (4) years following the date of disclosure, except that trade secrets shall remain protected for as long as they qualify as trade secrets under applicable law.
+
+5.3 Obligations shall survive any termination of discussions or this Agreement with respect to Confidential Information disclosed during the term.
+
+6. RETURN OR DESTRUCTION OF INFORMATION
+
+6.1 Upon request or termination of this Agreement, Receiving Party shall, at the election of the Disclosing Party, either:
+    (a) Return all Confidential Information and all copies thereof to the Disclosing Party in its original form; or
+    (b) Certify in writing the complete destruction of all Confidential Information and copies thereof in secure manner.
+
+6.2 Notwithstanding the above, Receiving Party may retain one copy of Confidential Information in its legal, compliance, or archive files, provided such copy remains subject to the confidentiality obligations herein.
+
+7. REMEDIES AND ENFORCEMENT
+
+7.1 Receiving Party acknowledges that breach of this Agreement may cause irreparable harm for which monetary damages are an insufficient remedy. Accordingly, Disclosing Party shall be entitled to seek equitable relief, including injunction and specific performance.
+
+7.2 This Agreement constitutes the entire agreement between the parties concerning the subject matter and supersedes all prior negotiations and understandings.

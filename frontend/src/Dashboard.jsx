@@ -627,7 +627,7 @@ export default function Dashboard() {
                       <div className="document-row-title">{formatDocName(doc.name)}</div>
                       <div className="document-row-meta">
                         <span>{doc.project}</span>
-                        <span>{doc.versions} versions</span>
+                        <span>{doc.versions} version{doc.versions !== 1 ? "s" : ""}</span>
                       </div>
                     </div>
                     <span className={`document-status ${String(doc.icon || "").toLowerCase()}`}>

@@ -1,0 +1,38 @@
+MASTER SERVICE AGREEMENT (VERSION 2 - ENHANCED)
+
+This Master Service Agreement ("Agreement") is entered into as of February 5, 2026 ("Effective Date"), by and between CloudTech Innovations, Inc. ("Service Provider") and Enterprise Systems Corp. ("Client").
+
+1. SERVICES DESCRIPTION
+Service Provider shall provide enterprise-grade software-as-a-service ("SaaS") platform services, including cloud hosting, data storage, advanced analytics, reporting tools, API access, and integration services (collectively, "Services"). Service specifications are detailed in attached Exhibits and Service Level Agreement.
+
+2. TERM AND RENEWAL
+Initial term: two (2) years from Effective Date. This Agreement automatically renews for successive one-year periods unless either party provides sixty (60) days' written notice of non-renewal prior to expiration.
+
+3. FEES AND PAYMENT TERMS
+3.1 Monthly Service Fee. $7,500 per month, due and payable within ten (10) days of invoice.
+
+3.2 Annual Fee Option. Client may elect to pay an annual fee of $85,000, which is equivalent to 5 months free. Annual fees are due within thirty (30) days of invoice.
+
+3.3 Usage-Based Fees. Additional fees apply for usage exceeding defined thresholds: Data Storage beyond 5TB: $500 per TB per month; API Calls beyond 1M per month: $0.01 per call.
+
+3.4 Price Adjustments. Service Provider may increase fees by up to 7% annually with sixty (60) days' written notice.
+
+3.5 Promotional Periods. Service Provider may offer promotional discounts for limited periods upon written agreement.
+
+4. SERVICE LEVELS AND UPTIME
+Service Provider commits to 99.9% system uptime during each calendar month (approximately 44 minutes maximum downtime), measured on an hourly basis, excluding scheduled maintenance windows and force majeure events. Service credit for uptime failures shall be applied as follows:
+- 99.5% to 99.89% uptime: 10% of monthly fee
+- 99.0% to 99.49% uptime: 25% of monthly fee
+- Less than 99.0% uptime: 50% of monthly fee
+
+5. SUPPORT AND MAINTENANCE
+Service Provider provides: Standard Support via email and ticketing system during business hours (24/7 for Platinum tier customers); Premium Support with dedicated technical account manager; Emergency hotline for critical incidents affecting production systems; Scheduled maintenance windows: typically 1st Sunday of each month, 2:00-4:00 AM EST.
+
+6. CONFIDENTIALITY AND DATA SECURITY
+Each party shall maintain confidentiality of proprietary information. Service Provider shall implement industry-standard security measures including encryption at rest and in transit, regular security audits, and SOC 2 Type II compliance.
+
+7. INTELLECTUAL PROPERTY RIGHTS
+Service Provider retains all intellectual property in the Services, platform, tools, and underlying technology. Client retains all intellectual property in Client Data. Client grants Service Provider a limited license to use anonymized Client Data for service improvement.
+
+8. TERMINATION AND DATA HANDLING
+Either party may terminate with sixty (60) days' written notice. Early termination by Client for convenience may result in early termination fees of up to three months' fees. Upon termination, Client Data shall be exported at no charge and available for ninety (90) days, after which permanent deletion occurs.

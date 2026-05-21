@@ -1,0 +1,69 @@
+SERVICE AGREEMENT - PROFESSIONAL SERVICES
+
+This Service Agreement (the "Agreement") is entered into as of May 1, 2026, by and between:
+
+VENDOR: Strategic Consulting Partners LLC, a Delaware limited liability company ("Vendor")
+CLIENT: Digital Innovation Corp., a Massachusetts corporation ("Client")
+
+RECITALS
+
+WHEREAS, Vendor is engaged in providing professional consulting services; and
+WHEREAS, Client desires to engage Vendor to provide certain consulting services on a project basis;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+
+1.1 Services. Vendor shall provide professional consulting services related to business process optimization, technology implementation, and strategic planning (the "Services") as detailed in the attached Statement of Work (SOW) and as further detailed in Exhibit A.
+
+1.2 Deliverables. Vendor shall deliver written reports, recommendations, implementation plans, and other deliverables as specified in the SOW. All deliverables shall be of professional quality and consistent with industry standards.
+
+1.3 Timeline. Services shall be performed according to the timeline set forth in the SOW. Either party may request schedule adjustments with written agreement of both parties.
+
+2. ENGAGEMENT TERMS
+
+2.1 Engagement Period. This Agreement shall commence on the date first written above and shall continue until all Services are completed and accepted by Client, or until terminated in accordance with Section 5.
+
+2.2 Engagement Model. Vendor shall provide the Services on a time-and-materials basis as described in Section 3, supplemented by the SOW.
+
+2.3 Vendor Resources. Vendor shall assign qualified consultants with appropriate expertise. Senior consultant shall be Project Lead and primary point of contact. Client agrees to allow substitutions for unavailability, provided replacement consultants possess comparable qualifications.
+
+3. FEES AND EXPENSES
+
+3.1 Professional Fees. Vendor shall invoice Client monthly for Services rendered at the following rates:
+    - Senior Consultant: $250 per hour
+    - Consultant: $175 per hour
+    - Associate Consultant: $125 per hour
+    - Administrative Support: $75 per hour
+
+3.2 Estimated Budget. The estimated total cost for the engagement is $75,000 (approximately 300 hours). This is an estimate and actual costs may vary based on scope changes or timeline extensions.
+
+3.3 Reimbursable Expenses. Client shall reimburse Vendor for reasonable out-of-pocket expenses including travel, lodging, meals, and materials at cost plus 5% administrative fee. Expenses require Client pre-approval exceeding $1,000.
+
+3.4 Invoicing and Payment. Vendor shall invoice monthly based on hours worked and expenses incurred. Invoices are due within thirty (30) days of invoice date. Late payments incur interest at 1.5% per month.
+
+3.5 Change Orders. Any scope changes or additions to Services shall be documented in writing and require executed change order with revised fee estimates before work commences.
+
+4. INTELLECTUAL PROPERTY AND OWNERSHIP
+
+4.1 Pre-Existing Materials. Vendor retains all ownership rights to Vendor's pre-existing tools, methodologies, templates, and materials used or delivered in connection with the Services.
+
+4.2 Deliverables. Client receives a perpetual, non-exclusive license to use the final deliverables solely for Client's internal business purposes. Vendor retains the right to use anonymized examples and learnings in future engagements.
+
+4.3 Work Product Ownership. Upon final payment, Vendor assigns all ownership rights to customized work product and reports specifically developed for Client as part of this engagement.
+
+5. TERMINATION
+
+5.1 Termination for Convenience. Either party may terminate this Agreement upon ten (10) business days' written notice. Upon termination, Client shall pay Vendor for Services rendered through the termination date plus reasonable wind-down costs.
+
+5.2 Termination for Cause. Either party may terminate immediately if the other party materially breaches this Agreement and fails to cure within fifteen (15) days of written notice.
+
+5.3 Effect of Termination. Upon termination, Vendor shall deliver all work in progress and documentation to Client within five (5) business days.
+
+6. CONFIDENTIALITY
+
+Each party shall maintain confidentiality of the other party's proprietary and confidential information disclosed in connection with this engagement and shall not disclose such information to third parties without prior written consent.
+
+7. GOVERNING LAW
+
+This Agreement shall be governed by the laws of the Commonwealth of Massachusetts without regard to conflict of law principles.

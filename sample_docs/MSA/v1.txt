@@ -1,0 +1,37 @@
+MASTER SERVICE AGREEMENT (VERSION 1)
+
+This Master Service Agreement ("Agreement") is entered into as of January 10, 2026 ("Effective Date"), by and between CloudTech Innovations, Inc. ("Service Provider") and Enterprise Systems Corp. ("Client").
+
+1. SERVICES
+Service Provider shall provide software-as-a-service ("SaaS") platform services, including cloud hosting, data storage, and analytics tools (collectively, "Services"). The specific features and capabilities are described in Exhibits attached to this Agreement.
+
+2. TERM
+This Agreement shall commence on the Effective Date and continue for an initial term of one (1) year, unless earlier terminated. This Agreement shall automatically renew for successive one-year periods unless either party provides written notice of non-renewal at least thirty (30) days prior to expiration.
+
+3. SERVICE FEES
+3.1 Monthly Fees. Client shall pay Service Provider a monthly service fee of $5,000, payable within fifteen (15) days of invoice. Fees are non-refundable except as expressly provided herein.
+
+3.2 Price Adjustments. Service Provider may increase fees by up to 5% annually upon thirty (30) days' written notice.
+
+3.3 Additional Services. Any services beyond the scope of this Agreement shall be billed at Service Provider's standard rates.
+
+4. SERVICE LEVEL AGREEMENT
+Service Provider commits to maintaining 99.5% system uptime during each calendar month, measured on an hourly basis, excluding scheduled maintenance and force majeure events.
+
+5. SUPPORT AND MAINTENANCE
+Service Provider shall provide technical support via email during business hours (Monday-Friday, 9:00 AM - 5:00 PM EST). Emergency support for critical incidents is available 24/7.
+
+6. CONFIDENTIALITY
+Each party shall maintain the confidentiality of the other party's proprietary information and shall not disclose such information to third parties without prior written consent.
+
+7. INTELLECTUAL PROPERTY
+Service Provider retains all intellectual property rights in the Services and Service Provider's technology. Client retains all intellectual property rights in Client Data uploaded to the Services.
+
+8. TERM AND TERMINATION
+Either party may terminate this Agreement upon sixty (60) days' written notice. Upon termination, Client Data shall be available for export for thirty (30) days, after which it shall be deleted.
+
+9. WARRANTIES
+Service Provider warrants that the Services will be provided in a professional manner and in accordance with this Agreement. EXCEPT AS EXPRESSLY STATED, SERVICE PROVIDER MAKES NO OTHER WARRANTIES.
+
+10. LIMITATION OF LIABILITY
+IN NO EVENT SHALL EITHER PARTY'S TOTAL LIABILITY EXCEED THE FEES PAID BY CLIENT IN THE TWELVE MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY.

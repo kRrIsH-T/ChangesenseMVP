@@ -415,7 +415,7 @@ async def get_documents():
                 "meta": f"{(1.2 * ((idx % 3) + 1)):.1f} MB • Document",
                 "project": projects[idx % len(projects)],
                 "date": "Today",
-                "versions": f"{versions} Versions",
+                "versions": versions,
                 "status": statuses[status_idx][0],
                 "icon": statuses[status_idx][1]
             })
